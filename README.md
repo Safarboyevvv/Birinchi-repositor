@@ -1,7 +1,6 @@
 # Birinchi-repositor
-
+## Yangi ochilgan repository
 **Repository ochishdan maqsad:**
-- yangi ochilgan repositor
 - commit qo'shish
 - Tahrirlash
 - tekshirish
